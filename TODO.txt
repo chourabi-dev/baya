@@ -1,0 +1,34 @@
+- auth ( auth / create account )
+- home page
+	* bloc steps
+	* bloc calories
+	* bloc Goals
+
+- Menu
+	- home
+	- goals
+		- add / edit / delete / list / share
+	- workouts
+		- list / edit / delete / add
+					 - list activities
+					 - super set ( chrono ) // formule timing =>
+
+	- feeds
+		-  status 
+			likes / comments
+				
+	
+
+
+/***************************************************************************** URLS *************************************************************************************/
+
+API pedometer;
+
+https://pub.dev/packages/pedometer
+
+
+https://flutterawesome.com/fitness-workout-app-with-flutter/
+
+
+
+	
